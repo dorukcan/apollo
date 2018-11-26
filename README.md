@@ -7,7 +7,7 @@
 #### Getting Started
 
 ##### Install
-`git pull <GIT_URL>`
+`git pull https://github.com/dorukcan/apollo.git`
 
 `cd apollo`
 
@@ -73,6 +73,6 @@ or
     settings.py
     tasks.py
 
-####License
+#### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
